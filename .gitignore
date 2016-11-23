@@ -1,0 +1,8 @@
+*.sdf
+*Intermediate/
+*Build/
+*DerivedDataCache/
+*Binaries/
+*Saved/
+BuildingEscape/Content/StarterContent/
+*.opendb
